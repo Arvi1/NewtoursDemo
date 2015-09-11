@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="20091" started-at="2015-09-09T09:39:40Z" finished-at="2015-09-09T09:40:01Z">
+  <suite name="Suite" duration-ms="13041" started-at="2015-09-11T01:54:48Z" finished-at="2015-09-11T01:55:01Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="20091" started-at="2015-09-09T09:39:40Z" finished-at="2015-09-09T09:40:01Z">
+    <test name="Test" duration-ms="13041" started-at="2015-09-11T01:54:48Z" finished-at="2015-09-11T01:55:01Z">
       <class name="com.page.tests.HomePageTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.page.tests.HomePageTest@6a5fc7f7]" name="beforeTest" is-config="true" duration-ms="11532" started-at="2015-09-09T19:39:40Z" finished-at="2015-09-09T19:39:52Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.page.tests.HomePageTest@5594a1b5]" name="beforeTest" is-config="true" duration-ms="8007" started-at="2015-09-11T11:54:48Z" finished-at="2015-09-11T11:54:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="Login()[pri:0, instance:com.page.tests.HomePageTest@6a5fc7f7]" name="Login" duration-ms="8074" started-at="2015-09-09T19:39:52Z" finished-at="2015-09-09T19:40:00Z">
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.page.tests.HomePageTest@5594a1b5]" name="Login" duration-ms="4609" started-at="2015-09-11T11:54:56Z" finished-at="2015-09-11T11:55:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.page.tests.HomePageTest@6a5fc7f7]" name="afterTest" is-config="true" duration-ms="453" started-at="2015-09-09T19:40:00Z" finished-at="2015-09-09T19:40:01Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.page.tests.HomePageTest@5594a1b5]" name="afterTest" is-config="true" duration-ms="409" started-at="2015-09-11T11:55:01Z" finished-at="2015-09-11T11:55:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

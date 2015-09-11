@@ -1,64 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="8.09" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="4.61" tests="1" errors="0" skipped="0" failures="0">
   <properties>
-    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_60\bin"/>
-    <property name="java.vm.version" value="25.60-b23"/>
-    <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="D:\EclipseProjects\GitProjects\NewtoursDemo"/>
-    <property name="java.vendor.url" value="http://java.oracle.com/"/>
-    <property name="path.separator" value=";"/>
-    <property name="guice.disable.misplaced.annotation.check" value="true"/>
-    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
     <property name="file.encoding.pkg" value="sun.io"/>
-    <property name="user.script" value=""/>
-    <property name="user.country" value="AU"/>
-    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="LOGONSERVER" value="\\SAIBABA"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_45\jre"/>
+    <property name="ACLOCAL_PATH" value="C:\Program Files\Git\mingw64\share\aclocal;C:\Program Files\Git\usr\share\aclocal"/>
+    <property name="Platform" value="MCD"/>
+    <property name="MSYSTEM" value="MINGW64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="PWD" value="C:/Users/Anu/Downloads/SoftWares/Tomcat/bin"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="PRINTER" value="Send To OneNote 2013"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_45\jre\lib\endorsed"/>
+    <property name="PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"/>
+    <property name="PCBRAND" value="Pavilion"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="Saibaba"/>
     <property name="sun.os.patch.level" value=""/>
-    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="D:\EclipseProjects\GitProjects\NewtoursDemo"/>
-    <property name="java.runtime.version" value="1.8.0_60-b27"/>
-    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_60\lib\endorsed"/>
-    <property name="os.arch" value="amd64"/>
-    <property name="java.io.tmpdir" value="C:\Users\Anu\AppData\Local\Temp\"/>
-    <property name="line.separator" value="&#10;"/>
-    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="user.variant" value=""/>
-    <property name="os.name" value="Windows 8.1"/>
-    <property name="classworlds.conf" value="D:\EclipseProjects\GitProjects\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5607508894208923136.tmp"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="PKG_CONFIG_PATH" value="C:\Program Files\Git\mingw64\lib\pkgconfig;C:\Program Files\Git\mingw64\share\pkgconfig"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.8.0_45"/>
+    <property name="JOB_NAME" value="NewtoursDemo"/>
+    <property name="COMPUTERNAME" value="SAIBABA"/>
+    <property name="SYSTEMDRIVE" value="C:"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="user.name" value="Anu"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_60\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_60/bin/server;C:/Program Files/Java/jre1.8.0_60/bin;C:/Program Files/Java/jre1.8.0_60/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk1.8.0_45\bin;C:\Users\Anu\Downloads\SoftWares\apache-ant-1.9.5-bin\apache-ant-1.9.5\bin;C:\Users\Anu\Downloads\SoftWares\apache-maven-3.3.3\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Users\Anu\Downloads\eclipse;;."/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\Anu\AppData\Local"/>
+    <property name="user.timezone" value="Australia/Brisbane"/>
+    <property name="INFOPATH" value="C:\Program Files\Git\usr\local\info;C:\Program Files\Git\usr\share\info;C:\Program Files\Git\usr\info;C:\Program Files\Git\share\info"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="8"/>
+    <property name="BUILD_TAG" value="jenkins-NewtoursDemo-3"/>
+    <property name="TERM" value="xterm"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="PATH" value="C:\Program Files\Java\jdk1.8.0_45/bin;C:\Users\Anu\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk1.8.0_45\bin;C:\Users\Anu\Downloads\SoftWares\apache-ant-1.9.5-bin\apache-ant-1.9.5\bin;C:\Users\Anu\Downloads\SoftWares\apache-maven-3.3.3\bin;C:\Program Files (x86)\Skype\Phone;C:\Program Files\Git\cmd;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main C:\Users\Anu\Downloads\SoftWares\apache-maven-3.3.3 C:\Users\Anu\Downloads\SoftWares\Tomcat\webapps\jenkins\WEB-INF\lib\remoting-2.52.jar C:\Users\Anu\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar C:\Users\Anu\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar 57649"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="321ca037b968d91d"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="PLINK_PROTOCOL" value="ssh"/>
+    <property name="GIT_COMMIT" value="61e120c469e7654dac24bd88e902e87eba8d7a3d"/>
+    <property name="MANPATH" value="C:\Program Files\Git\mingw64\share\man;C:\Program Files\Git\usr\local\man;C:\Program Files\Git\usr\share\man;C:\Program Files\Git\usr\man;C:\Program Files\Git\share\man"/>
+    <property name="java.io.tmpdir" value="C:\Users\Anu\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\Anu\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="SYSTEMROOT" value="C:\WINDOWS"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/NewtoursDemo/3/"/>
+    <property name="SHLVL" value="1"/>
+    <property name="M2_HOME" value="C:\Users\Anu\Downloads\SoftWares\apache-maven-3.3.3"/>
+    <property name="COMMONPROGRAMFILES" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#3"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="321ca037b968d91d"/>
+    <property name="MAVEN_HOME" value="C:\Users\Anu\Downloads\SoftWares\apache-maven-3.3.3"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\Anu\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="HOMEPATH" value="\Users\Anu"/>
+    <property name="TMPDIR" value="C:\Users\Anu\AppData\Local\Temp"/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="3"/>
+    <property name="maven3.interceptor" value="C:\Users\Anu\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_45\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Anu\Downloads\SoftWares\apache-maven-3.3.3/bin;C:\Program Files\Java\jdk1.8.0_45/bin;C:\Program Files\Java\jdk1.8.0_45/bin;C:\Users\Anu\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk1.8.0_45\bin;C:\Users\Anu\Downloads\SoftWares\apache-ant-1.9.5-bin\apache-ant-1.9.5\bin;C:\Users\Anu\Downloads\SoftWares\apache-maven-3.3.3\bin;C:\Program Files (x86)\Skype\Phone;C:\Program Files\Git\cmd;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="com.newtours.demoaut"/>
+    <property name="POM_ARTIFACTID" value="NewtoursDemo"/>
     <property name="java.class.version" value="52.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/NewtoursDemo/"/>
+    <property name="GIT_PREVIOUS_COMMIT" value="61e120c469e7654dac24bd88e902e87eba8d7a3d"/>
+    <property name="ANT_HOME" value="C:\Users\Anu\Downloads\SoftWares\apache-ant-1.9.5-bin\apache-ant-1.9.5"/>
+    <property name="GIT_BRANCH" value="origin/master"/>
+    <property name="JENKINS_HOME" value="C:\Users\Anu\.jenkins"/>
+    <property name="BUILD_ID" value="3"/>
+    <property name="TEMP" value="C:\Users\Anu\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_45\jre\bin"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="AMDAPPSDKROOT" value="C:\Program Files (x86)\AMD APP\"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="3a09"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Users\Anu\.jenkins"/>
+    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="61e120c469e7654dac24bd88e902e87eba8d7a3d"/>
+    <property name="COMSPEC" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\Users\Anu\Downloads\SoftWares\apache-maven-3.3.3/bin"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="Saibaba"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_45"/>
+    <property name="SHELL" value="C:/Program Files/Git/usr/bin/bash"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="PROGRAMFILES" value="C:\Program Files"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\Anu"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
     <property name="os.version" value="6.3"/>
     <property name="user.home" value="C:\Users\Anu"/>
-    <property name="user.timezone" value="Australia/Brisbane"/>
-    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
-    <property name="java.specification.version" value="1.8"/>
-    <property name="file.encoding" value="Cp1252"/>
-    <property name="user.name" value="Anu"/>
-    <property name="java.class.path" value="/C:/Users/Anu/Downloads/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.6.1.20150625-2337/jars/plexus-classworlds-2.5.2.jar"/>
-    <property name="java.vm.specification.version" value="1.8"/>
-    <property name="sun.arch.data.model" value="64"/>
-    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_60"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
-    <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="user.language" value="en"/>
-    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
-    <property name="java.vm.info" value="mixed mode"/>
-    <property name="java.version" value="1.8.0_60"/>
-    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_60\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
-    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_60\lib\resources.jar;C:\Program Files\Java\jre1.8.0_60\lib\rt.jar;C:\Program Files\Java\jre1.8.0_60\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_60\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_60\lib\jce.jar;C:\Program Files\Java\jre1.8.0_60\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_60\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_60\classes"/>
-    <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="D:\EclipseProjects\GitProjects\NewtoursDemo\EMBEDDED"/>
-    <property name="file.separator" value="\"/>
-    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="USERNAME" value="Anu"/>
+    <property name="_" value="C:\Program Files\Java\jdk1.8.0_45/bin/java"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="D:\EclipseProjects\GitProjects\NewtoursDemo"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\Anu\AppData\Local\Temp"/>
     <property name="sun.cpu.endian" value="little"/>
-    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="sun.desktop" value="windows"/>
-    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="java.vm.version" value="25.45-b02"/>
+    <property name="java.class.path" value="C:\Users\Anu\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-agent-1.5.jar;C:\Users\Anu\Downloads\SoftWares\apache-maven-3.3.3\boot\plexus-classworlds-2.5.2.jar;C:\Users\Anu\Downloads\SoftWares\apache-maven-3.3.3/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="WORKSPACE" value="C:\Users\Anu\.jenkins\workspace\NewtoursDemo"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="LANG" value="en_US.UTF-8"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="1.8.0_45-b15"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_45\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_45\jre\classes"/>
+    <property name="OnlineServices" value="Online Services"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_45/bin"/>
+    <property name="user.country" value="AU"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\Users\Anu\Downloads\SoftWares\apache-maven-3.3.3"/>
+    <property name="EXEPATH" value="C:\Program Files\Git"/>
+    <property name="HOSTNAME" value="Saibaba"/>
+    <property name="HOME" value="C:\Users\Anu"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="WINDIR" value="C:\WINDOWS"/>
+    <property name="POM_DISPLAYNAME" value="NewtoursDemo"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="GIT_URL" value="https://github.com/Arvi1/NewtoursDemo.git"/>
   </properties>
-  <testcase name="Login" classname="com.page.tests.HomePageTest" time="8.09"/>
+  <testcase name="Login" classname="com.page.tests.HomePageTest" time="4.61"/>
 </testsuite>

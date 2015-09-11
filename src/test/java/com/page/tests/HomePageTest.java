@@ -21,9 +21,11 @@ public class HomePageTest {
 		driver.get("http://newtours.demoaut.com/");
 	}	
 	@Test
-	public void Login(){
+	public void Login() throws Exception{
+		
 		driver.findElement(By.name("userName")).sendKeys("user1@gmail.com");;
 		driver.findElement(By.name("password")).sendKeys("user1");
+		Thread.sleep(2000);
 		driver.findElement(By.name("login")).click();	
 		System.out.println(driver.getTitle());
 		
